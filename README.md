@@ -1,7 +1,7 @@
 # EFGs-equilibria
 
 
-Solution to an assignmnet from Computation Game Theory course.
+Solution to an assignmnet from Computational Game Theory course.
 
 Finds Nash Equilibrium strategy in an extensive form game by first converting it to the sequence form and then solving linear program.
 The sequence form is specified in [1].
