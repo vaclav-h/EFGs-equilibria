@@ -11,4 +11,5 @@ The sequence form is specified in [1].
 
 ## References:
 [1] Koller, Daphne et al. “Efficient Computation of Equilibria for Extensive Two-Person Games.” Games and Economic Behavior 14 (1996): 247-259.
+
 [2] Assignment specification: https://cw.fel.cvut.cz/wiki/_media/courses/cgt/efg2021.pdf
